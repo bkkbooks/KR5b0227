@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0227/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0227/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶齋說光燭戒罰燈祝願儀
+  date: '2015-08-29 00:14:30.845333'
+  source:
+    repository: kanripo
+    path: KR5b0227
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0227_000-ZTDZ.yaml, hash: 'sha256:16d969b3abcfa968d58b1818664c262269e52bb4f6e9e547d0d870edbbde9b5b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0227_000-ZTDZ.markers.yaml, hash: 'sha256:3e2dbc431d6d4aed2a8228aef8de7963b4215a587f840a7c3841c44f6a2051cb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0227_SJB_000-090821a
+    span:
+    - body
+    - 0
+    - 5186
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ef735fa72bd136a0ee6cd4adbf2734dafb704de102def7f07906635e0c21d8c0
